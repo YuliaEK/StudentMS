@@ -32,7 +32,7 @@ while(true)
     }
     else if(choice==4){
         let studentID = prompt('Enter Student No (5 characters): ');
-        myFunctions.writeStudentDetails(studentID);
+        stuFunctions.writeStudentDetails(studentID);
         choice=0;
         choice=0;
 
